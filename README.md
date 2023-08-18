@@ -2,7 +2,7 @@
 
 ![人工智慧 - 自由團隊](https://raw.githubusercontent.com/chenkenanalytic/img/master/af/aifreeteam.png)
 
-歡迎大家來到 AI . FREE Team 《深偽換臉》實作；本實作與喝采設計合作開發。
+歡迎大家來到 AI . FREE Team 《深偽換臉》實作。
 <br>
 
 Author: Chen Ken；Date of published: 2023/7/31；AI . FREE Team
